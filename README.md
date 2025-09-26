@@ -10,7 +10,9 @@
 ---
 ## 1. Introduction
 This custom desktop PC build represents an **AMD-based extreme-entry level gaming** system designed for enthusiasts who demand premium performance without compromise. Built around the cutting-edge AMD Ryzen 7 9800X3D processor and MSI GeForce RTX 5080 graphics card, this configuration delivers exceptional gaming performance at 4K resolution while maintaining excellent frame rates across all modern AAA titles. The system features top-tier components including 64GB of DDR5-6000 RAM, PCIe 5.0 NVMe storage, and liquid cooling to ensure optimal performance under demanding workloads.
+
 With a budget of approximately ₱210,000, this build embodies the philosophy of "To be wealthy! Nearly every option in this tier is 'best-in-class', and is priced to match." While this represents a significant investment that borders on fanaticism, each component has been carefully selected to provide unparalleled gaming experiences and future-proofing for years to come. This extreme-entry level approach ensures that users won't need to upgrade individual components for an extended period, making it a sound long-term investment for serious gaming enthusiasts.
+
 ---
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility checks.  
