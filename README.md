@@ -5,7 +5,7 @@
 - CHUA, Hanielle Jermayn E.
 - DAVID Jr., Jose Ponciano B.
 - DEL ROSARIO, Ezra Jeonadab G.
-- Kelsey, Gabrielle MAdison F.
+- Kelsey, Gabrielle Madison F.
 - TOLENTINO, Hephzi-bah G.
 ---
 ## 1. Introduction
