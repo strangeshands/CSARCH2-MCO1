@@ -43,19 +43,19 @@ Google spreadsheet link: [Google Spreadsheet](https://docs.google.com/spreadshee
 
 ### Local Build Table
 
-| Component        | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
-|------------------|-------|------------------|-------------|-------------------------------------|
-| CPU              | ...   | [PC Express](link)| ...         | Socket LGA1700, compatible with B760M |
-| CPU Cooler       | ...   | [VillMan](link)   | ...         | Fits case clearance                  |
-| Motherboard      | ...   | [PC Express](link)| ...         | Supports DDR5 RAM                    |
-| RAM              | ...   | [PC Express](link)| ...         | DDR5-5200 CL40, 2×8GB                |
-| Storage 1 (SSD)  | ...   | [PC Express](link)| ...         | NVMe M.2 slot supported              |
-| Storage 2 (HDD)  | ...   | [VillMan](link)   | ...         | SATA port supported                  |
-| GPU              | ...   | [VillMan](link)   | ...         | Requires 2×8-pin PCIe, PSU supports |
-| PSU              | ...   | [VillMan](link)   | ...         | 650W, 80+ Bronze                     |
-| Case             | ...   | [VillMan](link)   | ...         | ATX Mid-Tower                        |
-| Case Fans        | ...   | [VillMan](link)   | ...         | 120mm, 3-pin                         |
-| **Total**        |       |                   | **XXX Php** | Within budget                        |
+| Component        | Model                                                                 | Vendor & Link       | Price (Php) | Compatibility Notes |
+|------------------|-----------------------------------------------------------------------|-------------------|-------------|-------------------|
+| CPU              | AMD Ryzen 7 9800X3D Processor                                         | [DataBlitz](https://ecommerce.datablitz.com.ph/products/amd-ryzen-7-9800x3d-processor) | 29,950.00   | No expected CPU to GPU bottleneck |
+| CPU Cooler       | MSI MPG CORELIQUID K240 77.4 CFM Liquid CPU Cooler                    | [VillMan](https://shop.villman.com/products/msi-mag-coreliquid-360r-v2-cpu-cooler-copy?srsltid=AfmBOopkQeVMY2AaS4imuoBU1PehSiT8X8H1ZEmiCM7OVSoOc951avYt)   | 11,299.00   | Fits case clearance; compatible with motherboard |
+| Motherboard      | MSI MPG X870E CARBON WIFI ATX AM5 Motherboard                          | [DataBlitz](https://ecommerce.datablitz.com.ph/products/msi-mpg-x870e-carbon-wifi-ddr5-amd-motherboard)| 29,495.00   | ATX form factor matches case; supports DDR5 RAM |
+| RAM              | Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory         | [DataBlitz](https://ecommerce.datablitz.com.ph/products/corsair-vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cool-grey-cmh64gx5m2b6000z30)| 15,595.00   | Four DDR5 slots on motherboard |
+| Storage 1 (SSD)  | Samsung 990 EVO Plus 4 TB M.2-2280 PCIe 5.0 X2 NVME SSD                | [DataBlitz](https://ecommerce.datablitz.com.ph/products/samsung-990-evo-plus-pcie-4-0-x4-5-0-x2-nvme-m-2-ssd-1tb-2tb-4tb?variant=52072586510707)| 15,950.00   | Two Gen5 + two Gen4 M.2 NVMe slots available |
+| Storage 2 (HDD)  | Toshiba N300 NAS 4 TB 3.5" 7200 RPM Internal Hard Drive               | [DataBlitz](https://ecommerce.datablitz.com.ph/products/toshiba-nas-n300-4tb-3-5-sata-nas-internal-hdd)   | 7,150.00    | SATA 6G ports available on motherboard |
+| Graphics Card    | MSI INSPIRE 3X OC GeForce RTX 5080 16 GB Video Card                    | [DataBlitz](https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5080-16gb-inspire-3x-oc-graphics-card)   | 78,395.00   | No expected CPU to GPU bottleneck |
+| PSU              | Asus ROG Strix 1000 W 80+ Platinum Certified Fully Modular ATX PSU     | [PC Express](https://pcx.com.ph/products/asus-rog-strix-1000w-80-platinum-atx-3-1-fully-modular-power-supply?_pos=1&_sid=fe0e908e4&_ss=r)   | 14,450.00   | Estimated wattage: 672W; fully modular |
+| Case             | MSI MAG VAMPIRIC 100R ATX Mid Tower Case                               | [EasyPC](https://easypc.com.ph/products/msi-mag-vampiric-100r-mid-tower-gming-pc-case-black?variant=32942696595519)   | 2,619.00    | No size issues or incompatibilities |
+| Case Fans        | Corsair iCUE LINK LX120 RGB 69.9 CFM 120 mm Fans 3-Pack               | [DataBlitz](https://ecommerce.datablitz.com.ph/products/corsair-icue-link-lx120-rgb-120mm-pwm-fan-triple-starter-kit)   | 5,050.00    | Installed in front, supported by case |
+| **Total**        |                                                                       |                   | **209,953.00 Php** | Within budget |
 
 ---
 ## 4. Compatibility Justification
