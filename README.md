@@ -79,7 +79,7 @@ Google spreadsheet link: [Google Spreadsheet](https://docs.google.com/spreadshee
 cooler, etc.).
 ---
 ## 6. Conclusion & Learnings
-Initially, there exists an assumption that sourcing computer components locally would be more cost-effective in comparison to purchasing components internationally. However, contrary to expectations, the build that uses components from local Manila vendors turns out to be more expensive when compared to the build sourced from international retailers.
+Initially, there exists an assumption that sourcing computer components locally would be more cost-effective in comparison to purchasing components internationally. However, contrary to expectations, the build that uses components from local Manila vendors turns out to be more expensive (~20,000.00 Php more) when compared to the build sourced from international retailers.
 - Challenges in finding stock or cheaper equivalents
 - What the group learned about PC components and system design
 ---
