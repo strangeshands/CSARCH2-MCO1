@@ -74,7 +74,7 @@ Google spreadsheet link: [Google Spreadsheet](https://docs.google.com/spreadshee
 ## 5. Budget Analysis
 - **Budget Limit**: ₱210,000.00
 - **Final Total**: ₱209,953.00
-- Within budget ✅ ❌
+- Within budget ✅
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket
 cooler, etc.).
 ---
