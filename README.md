@@ -21,17 +21,17 @@ PCPartPicker Permalink: [View Build](https://pcpartpicker.com/list/Ct79gn)
 ### Summary Table
 | Component       | Model                                                                 | Price (Php) | Notes |
 |-----------------|-----------------------------------------------------------------------|------------|-------|
-| CPU             | AMD Ryzen 7 9800X3D Processor                                         | 29,950.00  | AM5 socket compatibility |
-| CPU Cooler      | MSI MPG CORELIQUID K240 77.4 CFM Liquid CPU Cooler                    | 11,299.00  | 240mm AIO fits case |
-| Motherboard     | MSI MPG X870E CARBON WIFI ATX AM5 Motherboard                          | 29,495.00  | ATX form factor, AM5 socket |
-| RAM             | Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory         | 15,595.00  | DDR5 JEDEC/EXPO compatible |
-| Storage 1       | Samsung 990 EVO Plus 4 TB M.2-2280 PCIe 5.0 X2 NVME SSD                | 15,950.00  | NVMe M.2 2280 format |
-| Storage 2       | Toshiba N300 NAS 4 TB 3.5" 7200 RPM Internal Hard Drive               | 7,150.00   | SATA III interface |
-| Graphics Card   | MSI INSPIRE 3X OC GeForce RTX 5080 16 GB Video Card                    | 78,395.00  | PCIe 5.0 x16 slot |
-| Power Supply    | Asus ROG Strix 1000 W 80+ Platinum Certified Fully Modular ATX PSU     | 14,450.00  | ATX standard, sufficient wattage |
-| Case            | MSI MAG VAMPIRIC 100R ATX Mid Tower Case                               | 2,619.00   | ATX mid-tower form factor |
-| Case Fans       | Corsair iCUE LINK LX120 RGB 69.9 CFM 120 mm Fans 3-Pack               | 5,050.00   | Standard 120mm mounting |
-| **Total**       |                                                                       | **209,953.00 Php** |       |
+| CPU             | AMD Ryzen 7 9800X3D Processor                                         | 27,249.84  | AM5 socket compatibility |
+| CPU Cooler      | MSI MPG CORELIQUID K240 77.4 CFM Liquid CPU Cooler                    | 8,599.10  | 240mm AIO fits case |
+| Motherboard     | MSI MPG X870E CARBON WIFI ATX AM5 Motherboard                          | 25,564.30  | ATX form factor, AM5 socket |
+| RAM             | Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory         | 18,011.04  | DDR5 JEDEC/EXPO compatible |
+| Storage 1       | Samsung 990 EVO Plus 4 TB M.2-2280 PCIe 5.0 X2 NVME SSD                | 13,943.90  | NVMe M.2 2280 format |
+| Storage 2       | Toshiba N300 NAS 4 TB 3.5" 7200 RPM Internal Hard Drive               | 7,262.17   | SATA III interface |
+| Graphics Card   | MSI INSPIRE 3X OC GeForce RTX 5080 16 GB Video Card                    | 62,168.56  | PCIe 5.0 x16 slot |
+| Power Supply    | Asus ROG Strix 1000 W 80+ Platinum Certified Fully Modular ATX PSU     | 13,943.90  | ATX standard, sufficient wattage |
+| Case            | MSI MAG VAMPIRIC 100R ATX Mid Tower Case                               | 4,493.61   | ATX mid-tower form factor |
+| Case Fans       | Corsair iCUE LINK LX120 RGB 69.9 CFM 120 mm Fans 3-Pack               | 6,158.23   | Standard 120mm mounting |
+| **Total**       |                                                                       | **187,394.64 Php** |       |
 ---
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.  
@@ -72,15 +72,14 @@ Google spreadsheet link: [Google Spreadsheet](https://docs.google.com/spreadshee
 
 ---
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000
-- **Final Total**: ₱XX,000
-- Within budget / Over budget✅ ❌
+- **Budget Limit**: ₱210,000.00
+- **Final Total**: ₱209,953.00
+- Within budget ✅ ❌
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket
 cooler, etc.).
 ---
 ## 6. Conclusion & Learnings
-Reflections on:
-- Price differences (international vs. Manila vendors)
+Initially, there exists an assumption that sourcing computer components locally would be more cost-effective in comparison to purchasing components internationally. However, contrary to expectations, the build that uses components from local Manila vendors turns out to be more expensive when compared to the build sourced from international retailers.
 - Challenges in finding stock or cheaper equivalents
 - What the group learned about PC components and system design
 ---
