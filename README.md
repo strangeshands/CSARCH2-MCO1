@@ -66,7 +66,7 @@ Google spreadsheet link: [Google Spreadsheet](https://docs.google.com/spreadshee
 
 - **Power Supply**: The Asus ROG Strix 1000W has nearly 50% headroom over the system’s ~672W draw. Its ATX 3.1 design means it has all the right connectors, including native support for the RTX 5080.
 
-- **Case**: The MSI MAG VAMPIRIC 100R mid-tower supports ATX boards (305×244mm) with the correct mounts. It leaves 300mm of space for the GPU and room up front for a 240mm radiator, so cooling is straightforward.
+- **Case**: The MSI MAG VAMPIRIC 100R mid-tower supports ATX boards (305×244mm) with the correct mounts. It leaves 300mm of space for the GPU and room up front for a 240mm radiator, so cooling is easy to set up.
 
 - **Case Fans**: The Corsair iCUE LINK LX120 RGB 3-pack fits the standard 120mm mounts. With PWM control, airflow can be tuned easily to keep temps steady during long gaming sessions.
 
