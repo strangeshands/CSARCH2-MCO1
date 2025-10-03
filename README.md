@@ -81,7 +81,7 @@ Google spreadsheet link: [Google Spreadsheet](https://docs.google.com/spreadshee
     - Higher efficiency (Platinum vs. Gold) reducing long-term electricity costs
     - Better component longevity when PSU operates at lower load percentages
     - We had the budget for it, so why not get the better component
-- **RAM Price Volatility**: The Corsair Vengeance RGB 64GB kit was priced at ₱15,595.00 when we selected it on September 26, 2024 ([Link to Screenshots](https://drive.google.com/drive/folders/1KzhMvCtYWySRYEeg5Q7X0_3ui6HHbwL0?usp=drive_link)). By October 3, 2025, the price increased to ₱15,925.00. Between these dates, prices temporarily spiked to approximately ₱19,000.00 (22% increase). This ₱3,405.00 swing shows the volatile nature of PC component pricing in the Philippine market and the importance of acting quickly when good prices appear.
+- **RAM Price Volatility**: The Corsair Vengeance RGB 64GB kit was priced at ₱15,595.00 when we selected it on September 26, 2025 ([Link to Screenshots](https://drive.google.com/drive/folders/1KzhMvCtYWySRYEeg5Q7X0_3ui6HHbwL0?usp=drive_link)). By October 3, 2025, the price increased to ₱15,925.00. Between these dates, prices temporarily spiked to approximately ₱19,000.00 (22% increase). This ₱3,405.00 swing shows the volatile nature of PC component pricing in the Philippine market and the importance of acting quickly when good prices appear.
       
 ---
 ## 6. Conclusion & Learnings
