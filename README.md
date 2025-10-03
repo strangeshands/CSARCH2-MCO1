@@ -72,7 +72,7 @@ Google spreadsheet link: [Google Spreadsheet](https://docs.google.com/spreadshee
 
 ---
 ## 5. Budget Analysis
-- **Budget Limit**: ₱200,000.00 with 5% or more leeway/flexibility (₱210,000.00+)
+- **Budget Limit**: ₱200,000.00 with 5% (or more) flexibility
 - **Final Total**: ₱209,953.00
 - Within budget ✅
 ### Trade-offs
@@ -94,7 +94,7 @@ The PCPartPicker build totaled $3,318.57 USD (₱192,131.93 PHP equivalent), app
 - **Different Vendors**: We had to source parts from four different vendors (DataBlitz, VillMan, PC Express, EasyPC), making price comparison more time-consuming as they often differed in prices.
 
 ### What We Learned
-- **Technical Knowledge**: We learned about component compatibility (sockets, chipsets, physical clearances), power requirements with PSU efficiency ratings, and thermal management. Some group members had prior knowledge which helped the team understand these concepts better.
+- **Technical Knowledge**: We learned about component compatibility (sockets, chipsets, physical clearances), power requirements with PSU efficiency ratings, and thermal management. Some group members had prior knowledge which also helped the team understand these concepts better.
 - **System Design**: The high budget assigned to our group actually taught us how much better, both in performance and longevity, a good budget can provide. At the same time, it taught us how to still be selective with components as we can't just pick all the most expensive parts and call it a day; we also had to check the compatibility between the parts.
 - **Practical Skills**: We learned that the Philippine PC market lags behind US availability, and import charges make international purchases more expensive than local sourcing despite lower retail prices. The project also trained us in cross-referencing specifications between models and prices across vendors, helping us get the better options available.
 
