@@ -100,7 +100,7 @@ The PCPartPicker build totaled $3,318.57 USD (₱192,131.93 PHP equivalent), app
 
 ---
 ## 7. Video pitch
-- Your video link here
+- [Group 5 - Pitch Presentation](https://youtu.be/riHiMkzSDOY)
 
 ---
 
