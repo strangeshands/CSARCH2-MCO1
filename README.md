@@ -5,7 +5,7 @@
 - CHUA, Hanielle Jermayn E.
 - DAVID Jr., Jose Ponciano B.
 - DEL ROSARIO, Ezra Jeonadab G.
-- Kelsey, Gabrielle Madison F.
+- KELSEY, Gabrielle Madison F.
 - TOLENTINO, Hephzi-bah G.
 ---
 ## 1. Introduction
@@ -42,7 +42,7 @@ Google spreadsheet link: [Google Spreadsheet](https://docs.google.com/spreadshee
 | CPU              | AMD Ryzen 7 9800X3D Processor                                         | [DataBlitz](https://ecommerce.datablitz.com.ph/products/amd-ryzen-7-9800x3d-processor) | 29,950.00   | AM5 socket supported by X870E chipset. No expected CPU-to-GPU bottleneck with RTX 5080 due to high single-thread performance |
 | CPU Cooler       | MSI MPG CORELIQUID K240 77.4 CFM Liquid CPU Cooler                    | [VillMan](https://shop.villman.com/products/msi-mag-coreliquid-360r-v2-cpu-cooler-copy?srsltid=AfmBOopkQeVMY2AaS4imuoBU1PehSiT8X8H1ZEmiCM7OVSoOc951avYt)   | 11,299.00   | Size and function compatible: 240mm radiator fits case front mount, includes AM5 bracket for secure motherboard installation |
 | Motherboard      | MSI MPG X870E CARBON WIFI ATX AM5 Motherboard                          | [DataBlitz](https://ecommerce.datablitz.com.ph/products/msi-mpg-x870e-carbon-wifi-ddr5-amd-motherboard)| 29,495.00   | ATX form factor (305x244mm) matches case mounting points. Supports AM5 CPU with dual 8-pin power delivery for high-performance processors |
-| RAM              | Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory         | [DataBlitz](https://ecommerce.datablitz.com.ph/products/corsair-vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cool-grey-cmh64gx5m2b4000z30)| 15,595.00   | Motherboard contains four DDR5 DIMM slots (using 2 of 4). AMD EXPO profile enables DDR5-6000 speeds beyond standard specs |
+| RAM              | Corsair Vengeance RGB 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory         | [DataBlitz](https://ecommerce.datablitz.com.ph/products/corsair-vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cool-grey-cmh64gx5m2b4000z30) -- [Updated Link](https://ecommerce.datablitz.com.ph/products/corsair-vengeance-rgb-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-cool-grey-cmh64gx5m2b6000z30) | 15,595.00   | Motherboard contains four DDR5 DIMM slots (using 2 of 4). AMD EXPO profile enables DDR5-6000 speeds beyond standard specs |
 | Storage 1 (SSD)  | Samsung 990 EVO Plus 4 TB M.2-2280 PCIe 5.0 X2 NVME SSD                | [DataBlitz](https://ecommerce.datablitz.com.ph/products/samsung-990-evo-plus-pcie-4-0-x4-5-0-x2-nvme-m-2-ssd-1tb-2tb-4tb?variant=52072586510707)| 15,950.00   | Motherboard contains two Lightning Gen5 and two Lightning Gen4 M.2 NVMe slots. This PCIe 5.0 SSD utilizes one Gen5 slot for maximum performance |
 | Storage 2 (HDD)  | Toshiba N300 NAS 4 TB 3.5" 7200 RPM Internal Hard Drive               | [DataBlitz](https://ecommerce.datablitz.com.ph/products/toshiba-nas-n300-4tb-3-5-sata-nas-internal-hdd)   | 7,150.00    | Motherboard contains SATA 6Gb/s ports matching hard drive's SATA III interface. Standard 3.5" form factor fits case drive bays |
 | Graphics Card    | MSI INSPIRE 3X OC GeForce RTX 5080 16 GB Video Card                    | [DataBlitz](https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5080-16gb-inspire-3x-oc-graphics-card)   | 78,395.00   | No expected CPU-to-GPU bottleneck. PCIe 5.0 x16 slot compatibility. 288mm length fits within case's 300mm clearance |
